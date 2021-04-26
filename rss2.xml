@@ -4,9 +4,9 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Begin To Game</title>
-    <link>http://example.com/</link>
+    <link>http://blog.begintogame.com/</link>
     
-    <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="http://blog.begintogame.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
     <pubDate>Mon, 26 Apr 2021 14:39:20 GMT</pubDate>
@@ -14,8 +14,8 @@
     
     <item>
       <title>GitOps——在Windows/Linux下使用Minikube安装ArgoCD</title>
-      <link>http://example.com/2021/04/23/gitops-argocd/</link>
-      <guid>http://example.com/2021/04/23/gitops-argocd/</guid>
+      <link>http://blog.begintogame.com/2021/04/23/gitops-argocd/</link>
+      <guid>http://blog.begintogame.com/2021/04/23/gitops-argocd/</guid>
       <pubDate>Fri, 23 Apr 2021 12:53:44 GMT</pubDate>
       
         
@@ -29,19 +29,19 @@
       
       
       
-      <category domain="http://example.com/tags/Note/">Note</category>
+      <category domain="http://blog.begintogame.com/tags/Note/">Note</category>
       
-      <category domain="http://example.com/tags/GitOps/">GitOps</category>
+      <category domain="http://blog.begintogame.com/tags/GitOps/">GitOps</category>
       
       
-      <comments>http://example.com/2021/04/23/gitops-argocd/#disqus_thread</comments>
+      <comments>http://blog.begintogame.com/2021/04/23/gitops-argocd/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Nvidia GTC</title>
-      <link>http://example.com/2021/04/15/ItsComming/</link>
-      <guid>http://example.com/2021/04/15/ItsComming/</guid>
+      <link>http://blog.begintogame.com/2021/04/15/ItsComming/</link>
+      <guid>http://blog.begintogame.com/2021/04/15/ItsComming/</guid>
       <pubDate>Wed, 14 Apr 2021 16:18:02 GMT</pubDate>
       
         
@@ -56,12 +56,12 @@
       
       
       
-      <category domain="http://example.com/tags/Thoughts/">Thoughts</category>
+      <category domain="http://blog.begintogame.com/tags/Thoughts/">Thoughts</category>
       
-      <category domain="http://example.com/tags/News/">News</category>
+      <category domain="http://blog.begintogame.com/tags/News/">News</category>
       
       
-      <comments>http://example.com/2021/04/15/ItsComming/#disqus_thread</comments>
+      <comments>http://blog.begintogame.com/2021/04/15/ItsComming/#disqus_thread</comments>
       
     </item>
     
